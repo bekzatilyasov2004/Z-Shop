@@ -1,0 +1,13 @@
+@font-face {
+  font-family: alls;
+  src: url(./fonts/static/LexendZetta-Thin.ttf);
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+
